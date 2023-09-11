@@ -1,0 +1,28 @@
+body {
+    background-color: #e8ac7c;
+    font-family: Candara, serif;
+}
+
+a {
+    color: #5a6565;
+}
+
+.content_wrapper {
+    background-color: #e0985e;
+    align-content: center;
+    border-radius: 20px;
+    padding: 16px;
+    box-shadow: 0 10px 6px #5a6565;
+}
+
+h1 {
+    text-align: center;
+}
+
+h3 {
+    color: #5d3c21;
+}
+
+li {
+    list-style-type: armenian;
+}
